@@ -41,9 +41,9 @@ For example:
 - Write (w) = 2
 - Execute (x) = 1
 
-Owner (rwx) = 4 + 2 + 1 = 7
-Group (rwx) = 4 + 2 + 1 = 7
-Others (rwx) = 4 + 2 + 1 = 7
+- Owner (rwx) = 4 + 2 + 1 = 7
+- Group (rwx) = 4 + 2 + 1 = 7
+- Others (rwx) = 4 + 2 + 1 = 7
 
 We can change it for example:
 
@@ -51,9 +51,9 @@ We can change it for example:
 chmod 750 filename
 ```
 
-Owner: full access
-Group: read + execute
-Others: no access
+- Owner: full access
+- Group: read + execute
+- Others: no access
 
 ## Other command practiced
 
