@@ -37,9 +37,9 @@ chmod 777 filename
 Used to change file access, where 777 is full access (read, write, execute) for owner groups others
 For example:
 
-Read (r) = 4
-Write (w) = 2
-Execute (x) = 1
+- Read (r) = 4
+- Write (w) = 2
+- Execute (x) = 1
 
 Owner (rwx) = 4 + 2 + 1 = 7
 Group (rwx) = 4 + 2 + 1 = 7
